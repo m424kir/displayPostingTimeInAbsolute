@@ -20,7 +20,7 @@ export default defineConfig({
       userscript: {
         name: "Display posting time in absolute",
         namespace: "M424",
-        version: "0.0.1",
+        version: "0.0.2",
         description: {
           ja: "ポストされた投稿時間を絶対時間(24/01/01(月) 00:00)で表示する",
         },
