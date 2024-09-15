@@ -34,6 +34,10 @@ export default defineConfig({
           "https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js",
           "https://cdn.jsdelivr.net/npm/dayjs@1/locale/ja.js",
         ],
+        updateURL:
+          "https://github.com/m424kir/displayPostingTimeInAbsolute/raw/main/dist/displayPostingTimeInAbsolute.user.js",
+        downloadURL:
+          "https://github.com/m424kir/displayPostingTimeInAbsolute/raw/main/dist/displayPostingTimeInAbsolute.user.js",
       },
       build: {
         externalGlobals: {

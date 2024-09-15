@@ -6,6 +6,8 @@
 // @description:ja  ポストされた投稿時間を絶対時間(24/01/01(月) 00:00)で表示する
 // @license         MIT
 // @icon            https://www.google.com/s2/favicons?sz=64&domain=twitter.com
+// @downloadURL     https://github.com/m424kir/displayPostingTimeInAbsolute/raw/main/dist/displayPostingTimeInAbsolute.user.js
+// @updateURL       https://github.com/m424kir/displayPostingTimeInAbsolute/raw/main/dist/displayPostingTimeInAbsolute.user.js
 // @match           *://x.com/*
 // @match           *://*.com/i/tweetdeck
 // @match           *://misskey.io/*
